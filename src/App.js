@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+import logo from './Pernarh.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="Pernarh.jpg" alt="Pernarh.jpg" />
         <p>
           Edit <code>My name is Pernarh and I'm going to master React!</code>
         </p>
